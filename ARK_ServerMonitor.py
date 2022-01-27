@@ -4,7 +4,7 @@ import subprocess
 
 # Configuration
 # Define command to start ARK server program
-ARK_START_COMMAND = '/home/akira/python/ARK_Server_Monitor/LostIsland_Start.sh'
+ARK_START_COMMAND = '/home/user/python/ARK_Server_Monitor/LostIsland_Start.sh'
 
 if __name__ == "__main__":
     # Check all process at the time
